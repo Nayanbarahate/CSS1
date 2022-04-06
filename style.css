@@ -1,0 +1,9 @@
+.text{
+    background-color: aqua;
+    border: 5px solid red;
+    height: 90px;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    /* border-radius: 50%; */
+}
